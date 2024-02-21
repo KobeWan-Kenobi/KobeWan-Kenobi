@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is Kobe Checking in, over!
 <!--
 **KobeWan-Kenobi/KobeWan-Kenobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
